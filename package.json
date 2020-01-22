@@ -1,0 +1,32 @@
+{
+  "name": "@puredazzle/stylelint-config-order",
+  "version": "1.0.0",
+  "description": "Stylelint shareable order config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puredazzle/stylelint-config.git"
+  },
+  "keywords": [
+    "stylelint"
+  ],
+  "author": {
+    "name": "Chris Andersson",
+    "email": "chris@puredazzle.se",
+    "url": "https://puredazzle.se"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/puredazzle/stylelint-config/issues"
+  },
+  "homepage": "https://github.com/puredazzle/stylelint-config#readme",
+  "dependencies": {
+    "stylelint-order": "^4.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.0.0"
+  }
+}
