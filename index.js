@@ -15,6 +15,12 @@ module.exports = {
     'order/properties-order': [
       [
         {
+          groupName: 'content',
+          emptyLineBefore: 'always',
+          noEmptyLineBetween: true,
+          properties: ['content'],
+        },
+        {
           groupName: 'layout',
           emptyLineBefore: 'always',
           noEmptyLineBetween: true,
@@ -29,12 +35,6 @@ module.exports = {
             'float',
             'clear',
           ],
-        },
-        {
-          groupName: 'content',
-          emptyLineBefore: 'always',
-          noEmptyLineBetween: true,
-          properties: ['content'],
         },
         {
           groupName: 'grid',
