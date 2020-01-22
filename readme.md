@@ -8,3 +8,21 @@ Stylelint config that sorts related property declarations by grouping together f
 - Typography Properties (color, font-size, font-family, text-align)
 - Transform Properties (transform, perspective)
 - Misc Properties (cursor, overflow)
+
+
+## Install
+
+```
+$ npm install @puredazzle/stylelint-config-order --save-dev
+```
+
+
+## Usage
+
+Add the following to your [Stylelint config](https://stylelint.io/user-guide/configuration/):
+
+```json
+{
+	"extends": "@puredazzle/stylelint-config-order"
+}
+```
