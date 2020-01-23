@@ -7,6 +7,7 @@ module.exports = {
       {
         type: 'at-rule',
         name: 'include',
+        hasBlock: false,
       },
       {
         type: 'at-rule',
