@@ -1,6 +1,6 @@
 {
   "name": "@puredazzle/stylelint-config-order",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stylelint shareable order config",
   "main": "index.js",
   "scripts": {

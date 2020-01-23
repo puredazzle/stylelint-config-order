@@ -8,6 +8,10 @@ module.exports = {
         type: 'at-rule',
         name: 'include',
       },
+      {
+        type: 'at-rule',
+        name: 'extend',
+      },
       'declarations',
       'rules',
       'at-rules',
