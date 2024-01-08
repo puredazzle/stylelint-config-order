@@ -1,6 +1,6 @@
 {
   "name": "@puredazzle/stylelint-config-order",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Stylelint shareable order config",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,6 @@
     "stylelint-order": "^6.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^15.0.0"
+    "stylelint": "^16.0.0"
   }
 }
